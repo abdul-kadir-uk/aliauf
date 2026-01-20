@@ -11,24 +11,18 @@ export const calcards: card[] = [
     id: 2,
     title: "EMI",
     img: "/images/emi.jpg",
-    href: "/calculators/basic",
+    href: "/calculators/emi",
   },
   {
     id: 3,
     title: "GST",
     img: "/images/gst.jpg",
-    href: "/calculators/basic",
+    href: "/calculators/gst",
   },
   {
     id: 4,
     title: "Salary",
     img: "/images/salary.jpg",
-    href: "/calculators/basic",
-  },
-  {
-    id: 5,
-    title: "Grade",
-    img: "/images/grade.jpg",
-    href: "/calculators/basic",
+    href: "/calculators/salary",
   },
 ];

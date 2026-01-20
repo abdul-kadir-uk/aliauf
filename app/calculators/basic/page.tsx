@@ -1,4 +1,4 @@
-import BasicCalculator from "@/components/BasicCalculator";
+import BasicCalculator from "@/components/Calculators/BasicCalculator";
 
 export default function basic_calculator() {
   return (
