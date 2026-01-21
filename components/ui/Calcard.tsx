@@ -16,6 +16,8 @@ const Calcard = ({ card }: cardprops) => {
             src={card.img}
             alt={card.title}
             fill
+            sizes="(max-width: 768px) 100vw, 33vw"
+            loading="eager"
             className="object-contain rounded-md"
           />
         </div>
