@@ -24,10 +24,10 @@ export const cards: card[] = [
   },
   {
     id: 4,
-    title: "Resume Maker",
-    desc: "Create Your Resume Easily and Fast.",
-    image: "/images/resume.jpg",
-    href: "/resume",
+    title: "Image Compressor",
+    desc: "compress the image size.",
+    image: "/images/compressor.jpg",
+    href: "/compressor",
   },
   {
     id: 5,
